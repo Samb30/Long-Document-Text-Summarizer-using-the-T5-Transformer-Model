@@ -22,3 +22,11 @@ The project utilizes the **T5-base** model with an **encoder-decoder** structure
 - **Encoder:** Processes the input document and creates contextual representations
 - **Decoder:** Generates the summary based on the encoded representations
 - **Multi-head Self-Attention:** Enables the model to consider multiple perspectives and capture long-range dependencies
+
+## Screenshots
+
+![Homepage](https://github.com/user-attachments/assets/699c60bd-90af-4abf-b3fb-b7334f1ec217)
+![Summary Generation](https://github.com/user-attachments/assets/d70d3e0f-9121-4ec2-a7a5-5d0f69612fe9)
+![Generated Summary](https://github.com/user-attachments/assets/a442a37d-4141-4968-bb2d-a9f1771258bf)
+
+
